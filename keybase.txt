@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/apm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mileni.us
+  * I am apm (https://keybase.io/apm) on keybase.
+  * I have a public key with fingerprint F00A 2EDE F660 04F2 B1C1  45D1 743A 76F1 BD03 5577
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f00a2edef66004f2b1c145d1743a76f1bd035577",
+            "host": "keybase.io",
+            "key_id": "743a76f1bd035577",
+            "uid": "636e7d0b0ec10a706cdc3b21fba6d100",
+            "username": "apm"
+        },
+        "service": {
+            "hostname": "mileni.us",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1407298084,
+    "expire_in": 157680000,
+    "prev": "cebcdb42e6a9858b12353caf460e15d23372d42b4e859d731548c4d110900eda",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.3.0
+Comment: https://keybase.io/crypto
+
+yMHhAnicbZFdSBRRGIbHTE3BMDW7KKzGfgi25cz/7GJ/INZ2EaFUlMLuzJkz6zGd
+2fbX2tZgRVLrIg0iqbQMhRSjTKu7Fgth2wuNIjUJCwqNwrWoBINqRuyuc3M47/e8
+7/d9nGfZqURWimtH/r56x0tHSiL2KUCUv+/dEiZlXTlN2sPkSbR0qVhzI6/HizU/
+aSdVACQaKUjleQBYlZYpSLGcQgksIwm8SskKYDhOEEgLWaX7TIcRI0s+ZMW6oRkP
+J1YM9T98YKnAMzwSFCADBCkgCYCHCmRkmlJliVcoAEzQh7yaVIsMWvLUkhELaQhB
+DJE5rtl1uViLa5CGrQGf4fF4db8O9RpDrvL7PXbT5T/tMbEQkp3LAU4Za4qxr2EI
+Iq8P6xpppwwS+rGZSLFAoG0iEFkLieo82Iuc2CQ4gReBccw2KGhEQiRDRWZpxEs2
+kRNlimY4BkoqywNEcQrNMAKtsLTMIpGzKQJDcawIWYWigA0ApEikudIpTSfttDGm
+5DYifditSf6AF5GR4VjlSiIli0hPW2H+GJGVmfPvHy+LGX9cc/3pDU8EV3nqPaKp
+o8wSa11DFJcuvJ115M9ERqbzCp2VswWdzOSmQtj1YP7MVmVbq/tay1j8aNHFvET3
+1zZr/2jz3anSSzdfhW3VC2eHdqZeTzaODYS/OHpL+rJ/ocSL+OMTxzPxxI939dtD
+DbnRz2UHgo0PS7Jzd0fl8Z5vRe0VRyC3vqfldRMeT4wIxTN9e+cncHyqc+OtN6un
+72yoWPywLvJoz+LcVTG5Nv37c09Un65bdaw/NNg83Hc753x3ixbospL1yRsH4c/f
+BaHRXfc3p/mefjw35IKjUke898r+wWr10HiGD04Kyeb2WFlHojJ6QWyDhweGMoi/
+S7YShQ==
+=rysL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/apm
+
+==================================================================
+
