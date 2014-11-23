@@ -19,5 +19,5 @@ $(document).ready(function (){
 		$("#left-nav-links").append('<a href="'+leftNavLinks[i].href+'">'+leftNavLinks[i].text+'</a>');
 	};
 
-	$("#left-nav-links a:hasText('"+pagename+"')").addClass("left-nav-selected");
+	$("#left-nav-links a:contains('"+pagename+"')").addClass("left-nav-selected");
 });
