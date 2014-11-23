@@ -45,6 +45,10 @@ a small {
   display:block;
 }
 
+#left-nav {
+  width: 180px;
+}
+
 #website-title{
   cursor: pointer;
 }
@@ -62,6 +66,11 @@ a small {
   display: block;
   font-size: 20px;
   margin-bottom: 5px; 
+  padding-left: 5px;
+}
+
+#left-nav-links>a.left-nav-selected{
+  background-color: lightgray;
 }
 
 blockquote {
