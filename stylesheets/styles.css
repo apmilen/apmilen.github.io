@@ -184,6 +184,10 @@ section {
   padding-bottom:50px;
 }
 
+section>h2#page-title {
+  margin-top: 5px;
+}
+
 small {
   font-size:11px;
 }
