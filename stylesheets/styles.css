@@ -58,15 +58,11 @@ a small {
   margin:0 auto;
 }
 
-#left-nav-links {
-  padding-left: 15px;
-}
-
 #left-nav-links>a {
   display: block;
   font-size: 20px;
   margin-bottom: 5px; 
-  padding-left: 5px;
+  padding-left: 10px;
 }
 
 #left-nav-links>a.left-nav-selected{
