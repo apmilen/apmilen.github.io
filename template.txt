@@ -23,7 +23,7 @@
     <div class="wrapper">
       <header id="left-nav">
         <h1 id="website-title"></h1>
-        <div id="left-nav-links"></div>
+        <div id="left-nav-links" class="links-wrapper"></div>
 
       </header>
       <section>

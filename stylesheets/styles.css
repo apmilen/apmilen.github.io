@@ -58,11 +58,14 @@ a small {
   margin:0 auto;
 }
 
-#left-nav-links>a {
+.links-wrapper>a {
   display: block;
-  font-size: 20px;
   margin-bottom: 5px; 
   padding-left: 10px;
+}
+
+#left-nav-links>a {
+  font-size: 20px;
 }
 
 #left-nav-links>a.left-nav-selected{
