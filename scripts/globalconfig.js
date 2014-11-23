@@ -18,4 +18,6 @@ $(document).ready(function (){
 	for (var i = 0; i < leftNavLinks.length; i++) {
 		$("#left-nav-links").append('<a href="'+leftNavLinks[i].href+'">'+leftNavLinks[i].text+'</a>');
 	};
+
+	$("#left-nav-links a:hasText('"+pagename+"')").addClass("left-nav-selected");
 });
