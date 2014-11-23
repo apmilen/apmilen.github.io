@@ -8,6 +8,7 @@ $(document).ready(function (){
 	$("title").text("ecstatichabit");
 
 	$("#website-title").text("Cafe Sandy");
+	$("#website-title").click(function(){window.location.assign("http://mileni.us")});
 
 	var leftNavLinks = [
 		{ href: "http://mileni.us/me", text: "Me"},
