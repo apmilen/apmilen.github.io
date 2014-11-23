@@ -45,9 +45,9 @@ a small {
   display:block;
 }
 
-#left-nav {
+/*#left-nav {
   width: 180px;
-}
+}*/
 
 #website-title{
   cursor: pointer;
@@ -115,7 +115,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:15%;
   float:left;
   position:fixed;
 }
@@ -179,7 +179,7 @@ header ul a strong {
 }
 
 section {
-  width:600px;
+  width:70%;
   float:right;
   padding-bottom:50px;
 }
