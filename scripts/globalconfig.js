@@ -11,7 +11,7 @@ $(document).ready(function (){
 	$("#website-title").click(function(){window.location.assign("http://mileni.us")});
 
 	var leftNavLinks = [
-		{ href: "https://keybase.io/apm", text: "Me"},
+		{ href: "http://mileni.us/me", text: "Me"},
 		{ href: "http://mileni.us/toolbox", text: "Toolbox"}
 	];
 
