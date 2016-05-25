@@ -6,16 +6,18 @@ I hereby claim:
 
   * I am an admin of http://mileni.us
   * I am apm (https://keybase.io/apm) on keybase.
-  * I have a public key with fingerprint F00A 2EDE F660 04F2 B1C1  45D1 743A 76F1 BD03 5577
+  * I have a public key with fingerprint 9F5C FCF4 3109 6779 A7B3  AC61 2575 3EAD 035F FE97
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "f00a2edef66004f2b1c145d1743a76f1bd035577",
+            "eldest_kid": "010172a393e0cdbaf3fdb37b0602b9772b377855d618f1742c7ef74efec22e42b4420a",
+            "fingerprint": "9f5cfcf431096779a7b3ac6125753ead035ffe97",
             "host": "keybase.io",
-            "key_id": "743a76f1bd035577",
+            "key_id": "25753ead035ffe97",
+            "kid": "010172a393e0cdbaf3fdb37b0602b9772b377855d618f1742c7ef74efec22e42b4420a",
             "uid": "636e7d0b0ec10a706cdc3b21fba6d100",
             "username": "apm"
         },
@@ -26,35 +28,42 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1407298084,
+    "ctime": 1464169985,
     "expire_in": 157680000,
-    "prev": "cebcdb42e6a9858b12353caf460e15d23372d42b4e859d731548c4d110900eda",
-    "seqno": 2,
+    "prev": "3e7e12d6738571f83ac4f9db9ce3d8d7ec7dbc42aad256b4bd89688973b3d146",
+    "seqno": 11,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v0.3.0
+Version: Keybase OpenPGP v2.0.53
 Comment: https://keybase.io/crypto
 
-yMHhAnicbZFdSBRRGIbHTE3BMDW7KKzGfgi25cz/7GJ/INZ2EaFUlMLuzJkz6zGd
-2fbX2tZgRVLrIg0iqbQMhRSjTKu7Fgth2wuNIjUJCwqNwrWoBINqRuyuc3M47/e8
-7/d9nGfZqURWimtH/r56x0tHSiL2KUCUv+/dEiZlXTlN2sPkSbR0qVhzI6/HizU/
-aSdVACQaKUjleQBYlZYpSLGcQgksIwm8SskKYDhOEEgLWaX7TIcRI0s+ZMW6oRkP
-J1YM9T98YKnAMzwSFCADBCkgCYCHCmRkmlJliVcoAEzQh7yaVIsMWvLUkhELaQhB
-DJE5rtl1uViLa5CGrQGf4fF4db8O9RpDrvL7PXbT5T/tMbEQkp3LAU4Za4qxr2EI
-Iq8P6xpppwwS+rGZSLFAoG0iEFkLieo82Iuc2CQ4gReBccw2KGhEQiRDRWZpxEs2
-kRNlimY4BkoqywNEcQrNMAKtsLTMIpGzKQJDcawIWYWigA0ApEikudIpTSfttDGm
-5DYifditSf6AF5GR4VjlSiIli0hPW2H+GJGVmfPvHy+LGX9cc/3pDU8EV3nqPaKp
-o8wSa11DFJcuvJ115M9ERqbzCp2VswWdzOSmQtj1YP7MVmVbq/tay1j8aNHFvET3
-1zZr/2jz3anSSzdfhW3VC2eHdqZeTzaODYS/OHpL+rJ/ocSL+OMTxzPxxI939dtD
-DbnRz2UHgo0PS7Jzd0fl8Z5vRe0VRyC3vqfldRMeT4wIxTN9e+cncHyqc+OtN6un
-72yoWPywLvJoz+LcVTG5Nv37c09Un65bdaw/NNg83Hc753x3ixbospL1yRsH4c/f
-BaHRXfc3p/mefjw35IKjUke898r+wWr10HiGD04Kyeb2WFlHojJ6QWyDhweGMoi/
-S7YShQ==
-=rysL
+yMM7AnicrVJrUFRlGN4F2hnWEUFQco3AY1rijnPu3zlbQBEEmgghkDDAzrl8Bw+X
+c9ZzdrkMl4hykkthrIqDm5k5lCnJjExN4wwjlF2mkGGaaFK5DDDcSlHyh0JGZxn7
+18++P9+87/s8z/u877zfrA00Wc3bPPFdgc6/280/9rV6TK8nl5urEV4VqxBHNVIC
+Vz9YKkLd7SyRRcSBoBiKAZwjWAKigshzEiGJPAF4lEZxngUANwLAUJRIY4yEARIX
+AJQACSUo4DgkcZ4kcZRD7IgkK0VQc2my4jZkWYkSJEEiCQxlaQBYDvAEJ9AYTgGK
+gJyIEpQkQRYYxIOq7mcY5nhOh7tk1cgZgXPV3n/g/2ffnlU5mqAhEFEehQKGcgCl
+BVEgeByTeI4WMRT1A3WoKVwZNNCcqwyptSNGolwWoH+n/iEeF8vkUqjIuzy6wXFp
+qlsV1FIjfdDtdjn8LHeVyw+rgLzzsYCTlxXRWJ9BKIeaLqsK4sAMpOCW/YoYSZMY
+zbIMZUdgpUvWoFP2IyhAM6jx/G1guSFJQAAxXKQBwVAAkxhj46TEijwrQEJkRAAF
+IPICiXOciFM0T/Iiw9IMwwKCJ0SjC+If6ZCiGtqY4ZMrMjR1uUjh3B4NIrX9fflB
+JrPVZHkiwH9XJmtw6L/Xthy+biXjtWlbVkzZADUYfHqwddE+ezw80ukNUPnWo529
+VuHA5jONTQWf3/DaycDE7He+872RuSE0w9dQtXQyeubo1poEb8crLQ/2n53IzWTs
+6r12z4fjel/2iRODU9h0/kVPfYn2S57P0dnZtuOnnEdxnzRm9tzNzFcO2BqKMd1S
+XfN9bqq2cT/zFwzy3W1Lm4wd6flhomGgN8hmbvxyS9xw8aFj+KaEyLZ2+8ird95d
++LrxSmFq0mHnz2O+iaXnDpefefLOuULm2trjGUxE1L28Ux0pBfWzKfvEMXLEkoqH
+vOjoLcCbErHfnw87UlH1xe3FhU97Q/YMr7mYz1lzej5ODPFe7upUO2qU60lJ65vH
+6mkbqk/e33hhyn5+8EFddnB0nKXy0txA+KXQndnh3TkF0uWOtKvpb70NYuc0xBs5
+et/SbQ2LoXCLbW+1Pr0Y/TAktanuxnL8hS1Sarqlcs0ztwoftgwlsd21wxX1fzD9
+Fc/ObBs3Z10f+q25ON53Ff2sa6GLPDkW0zxSmZuy/O1MZn9EU1N68vZRe8q5I2zN
+Bw2223N70l7urGv+6k3v+vdK1y0G2fJGo45lPdq6EvBRy6YgrfJPXmkb2pF8tmBn
+d8KVmz0rLwgVu5++FoHM3txgqsOFvVPzYstS177hZvl8xOnx+VuTT23GozDzS+jk
+6Hzs+7t/nQj7B/HXsPU=
+=2xh0
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
